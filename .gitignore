@@ -21,3 +21,30 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+/*/target/*
+*.iml
+*.ipr
+*.iws
+*.bak
+.settings/
+.classpath
+.project
+.metadata/
+.idea/
+dependency-reduced-pom.xml
+.DS_Store
+/*/dependency-reduced-pom.xml
+/bin
+/.settings
+target
+/*/.project
+/*/.classpath
+*.project
+*.classpath
+LOG_FILE_NAME_IS_UNDEFINED
+/*/LOG_FILE_NAME_IS_UNDEFINED
+/src/main/resources/git.properties
+/*/src/main/resources/git.properties
+*.versionsBackup
+logs/
