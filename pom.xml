@@ -95,11 +95,6 @@
           <artifactId>guava</artifactId>
           <version>14.0.1</version>
       </dependency>
-      <dependency>
-          <groupId>com.bestpay.fepsdk</groupId>
-          <artifactId>fep-sdk</artifactId>
-          <version>3.0.0</version>
-      </dependency>
 
       <dependency>
           <groupId>com.alibaba</groupId>
